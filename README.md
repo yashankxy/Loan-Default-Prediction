@@ -5,7 +5,7 @@
 # Loan Default Prediction using Logistic Regression
 
 ## Overview
-This project aims to build a predictive model using Logistic Regression to forecast whether a borrower will default on a loan based on their income and loan amount. The model utilizes Python libraries like Pandas, Matplotlib, Seaborn, and Scikit-learn to explore, preprocess, train, and evaluate the model's performance.
+This project build a predictive model using Logistic Regression to forecast whether a borrower will default on a loan based on their income and loan amount. The model utilizes Python libraries like Pandas, Matplotlib, Seaborn, and Scikit-learn to explore, preprocess, train, and evaluate the model's performance.
 
 ## Table of Contents
 1. [Project Objective](#project-objective)
